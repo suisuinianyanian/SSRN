@@ -1,0 +1,2 @@
+# Self-similar spectral reasoning network for efficient anti-aliasing seismic data reconstruction
+This repository contains the code of model for the paper "Self-similar spectral reasoning network for efficient anti-aliasing seismic data reconstruction" 
